@@ -1,1 +1,1 @@
-# AI_capestone_hw1
+# AI_capstone_hw1
